@@ -1,11 +1,10 @@
 ## CheatyBlack - Founder, Programmer & CEO at Sense Roleplay
 
-<div align="center">
-<a href="https://github.com/cheatyblack">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheatyblack&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cheatyblack&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-
-</div>
+<p align="center">
+    <img alt="status github, commits, etc..." height="200px" src="https://github-readme-stats.vercel.app/api?username=cheatyblack&count_private=true&show_icons=true&custom_title=Github&theme=midnightpurple&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    />
+    <img alt="most used languages" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheatyblack&count_private=true&theme=algolia&bg_color=0,130F40,000000&custom_title=Languages&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
+</p>
   
  ##
  
